@@ -1,2 +1,4 @@
 # AudioSpectrum
-HTML5 Canvas Audio Spectrum
+
+## Preview
+<img src="https://i.imgur.com/FWKZYMO.png">
