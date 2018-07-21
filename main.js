@@ -74,7 +74,7 @@ class AudioReader {
     getFrequency() {
         let frequency = 0
         for (let offset = 0; offset < this.frequencyBuffer.length; offset++) frequency += this.frequencyBuffer[offset] * 100 / 256
-		return frequency
+	return frequency
     }
 }
 
